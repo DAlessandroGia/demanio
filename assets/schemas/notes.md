@@ -27,7 +27,7 @@ nome-schema/
 
 Per validare gli schemi OAS3, usa tool come:
 - Swagger Editor: https://editor.swagger.io/
-- Redoc: https://github.com/Redocly/redoc
+- Italian OpenAPI Checker: https://italia.github.io/api-oas-checker/
 
 ## Standard Utilizzato
 

@@ -10,7 +10,7 @@ Il catalogo nazionale della semantica dei dati, o NDC, consente:
 
 ---
 
-## 📋 Organizzazione delle Informazioni
+## Organizzazione delle Informazioni
 
 I file presenti in questo repository sono organizzati secondo la seguente struttura:
 
@@ -61,7 +61,7 @@ I file presenti in questo repository sono organizzati secondo la seguente strutt
 
 ---
 
-## 🎨 Formati Utilizzati
+## Formati Utilizzati
 
 ### Ontologie e Vocabolari Controllati
 
@@ -81,7 +81,7 @@ I file presenti in questo repository sono organizzati secondo la seguente strutt
 
 ---
 
-## 🔧 Uso degli Script
+## Uso degli Script
 
 ### Generare CSV/JSON da Vocabolari
 
@@ -124,7 +124,7 @@ pre-commit run --all-files
 
 ---
 
-## 📜 Licenza
+## Licenza
 
 Tutte le risorse sono rilasciate sotto licenza **[Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)**.
 
@@ -137,7 +137,7 @@ A condizione di:
 
 ---
 
-## 🔗 Link Utili
+## Link Utili
 
 - **Catalogo Nazionale Dati**: https://schema.gov.it
 - **Guida NDC**: https://teamdigitale.github.io/dati-semantic-guida-ndc-docs/
@@ -145,19 +145,13 @@ A condizione di:
 
 ---
 
-## 📧 Contatti
+## Contatti
 
 Per informazioni su questo repository:
 
-- **Email**: [email-contatto@ente.it]
-- **Referente**: [Nome Cognome - Ruolo]
-- **Ente**: [Nome Ente Completo]
-
----
-
-## 🤝 Contribuire
-
-[Se il repository accetta contributi esterni, aggiungi questa sezione con istruzioni]
+- **Email**: marco.trocino@agenziademanio.it
+- **Referente**: Marco Trocino
+- **Ente**: Agenzia del Demanio
 
 ---
 
